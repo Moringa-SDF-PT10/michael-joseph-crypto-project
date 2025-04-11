@@ -1,0 +1,75 @@
+
+body {
+    margin: 0;
+    background: linear-gradient(black, white ) ;
+    color: #000000 ;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+
+        font-family: "Montserrat Alternates", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+}
+
+.Game-card{
+    background: linear-gradient(black, white ) ;
+    padding: 45px;
+    border-radius: 20px;
+    width: 50%;
+    box-shadow:0 5px 10px black;
+
+
+}
+
+#submiting-guess{
+    height: 30px;
+    border-radius: 10px;
+}
+
+
+
+
+button {
+    background:black ;
+    border-radius: 10px;
+    height: 30px;
+    color: white;
+    border-width: 0.005cm ;
+    font-family: "Montserrat Alternates", sans-serif; 
+    border-style: none;
+    font-weight: bold;
+    box-shadow:  0 5px 10px#000000;
+    cursor: pointer;
+
+
+    
+
+
+}
+ button:hover{
+    background:linear-gradient(black, grey);
+ }
+
+ input[type = "text"]{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    box-shadow:  0 5px 10px#000000;
+    font-family:"Montserrat Alternates", sans-serif;
+    font-weight: bold;
+
+ }
+
+
+ .hidden{
+    display: none;
+ }
+
+ #hints{
+    margin-top: 1rem,;
+    text-align: left;
+ }
+
