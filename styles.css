@@ -1,7 +1,7 @@
 
 body {
     margin: 0;
-    background: linear-gradient(black, white ) ;
+    background: linear-gradient(black, grey ) ;
     color: #000000 ;
     display: flex;
     justify-content: center;
