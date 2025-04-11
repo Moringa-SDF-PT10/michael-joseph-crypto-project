@@ -20,6 +20,8 @@ body {
     width: 50%;
     box-shadow:0 5px 10px black;
     text-align: center;
+    height: 400px;
+
 
 
 }
@@ -72,6 +74,11 @@ button {
  #hints{
     margin-top: 1rem,;
     text-align: left;
+    font-family:"Montserrat Alternates", sans-serif;
+    font-weight: 100;
+
+    
+   
  }
 
 
@@ -79,12 +86,16 @@ button {
  h1 {
     box-shadow:  0 5px 10px#000000;
     border-radius: 20px;
-    border-style:double;
-    
+    height: 50px;
+    text-align: center;
+   
  }
 
 /* idk if this would show up lol */
  #hints{
     box-shadow:  0 5px 10px#000000;
     border-radius: 20px;
+    text-align: center;
+    width: 200px
+
  }
