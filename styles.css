@@ -14,7 +14,7 @@ body {
 }
 
 .Game-card{
-    background: linear-gradient(black, white ) ;
+    background: linear-gradient(black, rgb(158, 157, 157)) ;
     padding: 45px;
     border-radius: 20px;
     width: 50%;
