@@ -19,6 +19,7 @@ body {
     border-radius: 20px;
     width: 50%;
     box-shadow:0 5px 10px black;
+    text-align: center;
 
 
 }
@@ -73,3 +74,17 @@ button {
     text-align: left;
  }
 
+
+
+ h1 {
+    box-shadow:  0 5px 10px#000000;
+    border-radius: 20px;
+    border-style:double;
+    
+ }
+
+/* idk if this would show up lol */
+ #hints{
+    box-shadow:  0 5px 10px#000000;
+    border-radius: 20px;
+ }
