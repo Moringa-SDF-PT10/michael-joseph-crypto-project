@@ -45,6 +45,7 @@ button {
     font-weight: bold;
     box-shadow:  0 5px 10px#000000;
     cursor: pointer;
+    margin-top: 20px;
 
 
     
@@ -99,3 +100,6 @@ button {
     width: 200px
 
  }
+
+
+
