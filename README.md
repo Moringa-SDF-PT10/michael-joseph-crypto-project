@@ -32,14 +32,14 @@ The **Crypto Guess Challenge** is my web-based single-page game that tests your 
 
 ## How It Works
 
-1. Click **Start Challenge**.
+1. Click **get guessing**.
 2. A random cryptocurrency is chosen.
-3. You'll see hints like symbol, rank, price, market cap, and more — but not the name.
+3. You'll see hints like symbol, rank, price, market cap, and more
 4. Type in your guess and submit it.
-5. Get instant feedback on your answer (correct/incorrect).
+5. Get instant feedback on your answer (not it😭/on point😍).
 6. Repeat for 3 rounds.
 7. View your final score and the actual coin names.
-8. Click **Restart Game** to play again.
+8. Click **try again** to play again.
 
 ## Learning Goals Met
 
