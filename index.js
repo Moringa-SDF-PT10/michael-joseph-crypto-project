@@ -167,7 +167,7 @@ async function letsGame() {
    const res = await fetch( 'https://api.coinpaprika.com/v1/coins' );
 
 
-   const data = await res.json();
+   const data = await res.json(); 
 
 
    crypto = data.filter(coin => coin.rank && coin.is_active); //filter.
