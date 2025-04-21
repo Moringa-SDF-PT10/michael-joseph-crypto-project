@@ -46,9 +46,8 @@ The **Crypto Guess Challenge** is my web-based single-page game that tests your 
 - Consumes public API asynchronously using `fetch` and handles JSON responses.
 -  Single-page interface with no reloads or redirects.
 -  Uses at least 3 distinct `addEventListener()` types:
-  - `click` – Start Game / Restart Game
-  - `submit` – Guess form
-  - `keydown` or `change` – (toggle or input, if added)
+  - `click` – get guessing / try again
+  - `submit` – Guess
 - Array iteration with `.filter()` or `.map()` for coin selection and hint generation.
 -  DRY and modular code structure with reusable functions and clean logic.
 
