@@ -52,10 +52,6 @@ The **Crypto Guess Challenge** is my web-based single-page game that tests your 
 - Array iteration with `.filter()` or `.map()` for coin selection and hint generation.
 -  DRY and modular code structure with reusable functions and clean logic.
 
-## Possible Improvements
-- Add dark/light mode toggle using a `change` or `click` event
-- Add sound effects or timer for challenge difficulty
-- Filter out low-quality or inactive coins using `.filter()`
 
 ##  Run the App
 1. Clone or download the project files.
